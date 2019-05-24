@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import TransactionsList from './TransactionsList'
 import Search from './Search'
-// import {transactions} from '../transactionsData'
 
 class AccountContainer extends Component {
 
